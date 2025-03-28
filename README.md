@@ -27,4 +27,3 @@ Classifica nadadores por categoria de acordo com a idade:
 - Criar pequenos projetos usando lógica e estruturas
 - Evoluir para conceitos de orientação a objetos
 - Atualizar o perfil no LinkedIn com novos links
-
