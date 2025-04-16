@@ -21,7 +21,7 @@ Estou acompanhando as aulas do canal DevDojo e cursos da Alura.
 - `DiferencaIdades.java`: Calcula a diferença entre duas idades.
 - `ExercicioGptAula16.java`: Calcula a idade com base no ano de nascimento e verifica se a pessoa pode votar.
 - `EquipeNatacaoExercise.java`: Classifica participantes por faixa etária em um torneio de natação.
-- `AlistamentoMilitar.java`: Verifica se a pessoa deve se alistar de acordo com o sexo e a idade. Usa entrada de dados com `Scanner`.
+- `AlistamentoMilitar.java`: Verifica se a pessoa deve se alistar de acordo com o sexo e a idade. Usa `Scanner` com `equalsIgnoreCase()` para comparar respostas e validações com menu.
 - `CadastrarAdmin.java`: Valida nomes de usuário. Impede uso de nomes reservados como "admin" ou "administrador", e ignora letras maiúsculas/minúsculas com `.equalsIgnoreCase()`.
 
 ### 💵 Cálculos e porcentagens
