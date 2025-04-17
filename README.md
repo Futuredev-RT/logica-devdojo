@@ -7,7 +7,7 @@ Estou acompanhando as aulas do canal DevDojo e cursos da Alura.
 - Lógica de programação com Java
 - Operadores aritméticos e relacionais
 - Estrutura de decisão (`if`, `else if`, `else`)
-- Uso de `&&` (AND lógico)
+- Uso de `&&` (AND lógico) e `||` (OR lógico)
 - Entrada de dados com `Scanner`
 - Comparação de Strings com `.equals()` e `.equalsIgnoreCase()`
 - Manipulação de números decimais com `Locale.US`
