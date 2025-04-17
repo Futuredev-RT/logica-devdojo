@@ -10,6 +10,7 @@ Estou acompanhando as aulas do canal DevDojo e cursos da Alura.
 - Uso de `&&` (AND lógico)
 - Entrada de dados com `Scanner`
 - Comparação de Strings com `.equals()` e `.equalsIgnoreCase()`
+- Manipulação de números decimais com `Locale.US`
 - Boas práticas no código
 - Como usar o GitHub
 
@@ -23,6 +24,7 @@ Estou acompanhando as aulas do canal DevDojo e cursos da Alura.
 - `EquipeNatacaoExercise.java`: Classifica participantes por faixa etária em um torneio de natação.
 - `AlistamentoMilitar.java`: Verifica se a pessoa deve se alistar de acordo com o sexo e a idade. Usa `Scanner` com `equalsIgnoreCase()` para comparar respostas e validações com menu.
 - `CadastrarAdmin.java`: Valida nomes de usuário. Impede uso de nomes reservados como "admin" ou "administrador", e ignora letras maiúsculas/minúsculas com `.equalsIgnoreCase()`.
+- `TesteGpt.java`: Calcula a média de duas notas e classifica o aluno como Aprovado, Recuperação ou Reprovado. Usa `Scanner` com `Locale.US` para aceitar números com ponto.
 
 ### 💵 Cálculos e porcentagens
 - `ImpostoRenda.java`: Calcula o valor de imposto com base na faixa salarial.
