@@ -10,11 +10,14 @@ Estou acompanhando as aulas do canal DevDojo e cursos da Alura.
 - Uso de `&&` (AND lógico) e `||` (OR lógico)
 - Entrada de dados com `Scanner`
 - Comparação de Strings com `.equals()` e `.equalsIgnoreCase()`
-- Controle de repetição com `while` e variável de controle
+- Controle de repetição com `while` e `do-while`
+- Uso de `boolean` para controle de acesso e fluxo
+- Interrupção de laços com `break`
 - Estrutura `switch`, `case`, `break`, `default`
 - Manipulação de números decimais com `Locale.US`
 - Organização do código em pacotes (`packages`)
 - Boas práticas no código
+- Escopo de variáveis dentro e fora dos blocos
 - Como usar o GitHub
 
 ## 📂 Exercícios por tema
@@ -25,10 +28,12 @@ Estou acompanhando as aulas do canal DevDojo e cursos da Alura.
 - `DiferencaIdades.java`: Calcula a diferença entre duas idades.
 - `ExercicioGptAula16.java`: Calcula a idade com base no ano de nascimento e verifica se a pessoa pode votar.
 - `EquipeNatacaoExercise.java`: Classifica participantes por faixa etária em um torneio de natação.
-- `AlistamentoMilitar.java`: Verifica se a pessoa deve se alistar de acordo com o sexo e a idade. Usa `Scanner` com `equalsIgnoreCase()` para comparar respostas e validações com menu.
-- `CadastrarAdmin.java`: Valida nomes de usuário. Impede uso de nomes reservados como "admin" ou "administrador", e ignora letras maiúsculas/minúsculas com `.equalsIgnoreCase()`.
-- `TesteGpt.java`: Calcula a média de duas notas e classifica o aluno como Aprovado, Recuperação ou Reprovado. Usa `Scanner` com `Locale.US` para aceitar números com ponto.
-- `DoacaoDeSangue.java`: Sistema de triagem que avalia idade, peso, sintomas e sono para validar se uma pessoa pode doar sangue.
+- `AlistamentoMilitar.java`: Verifica se a pessoa deve se alistar de acordo com o sexo e a idade.
+- `CadastrarAdmin.java`: Valida nomes de usuário, impedindo nomes reservados como "admin".
+- `TesteGpt.java`: Calcula a média de duas notas e classifica como Aprovado, Recuperação ou Reprovado.
+- `DoacaoDeSangue.java`: Sistema de triagem que valida se a pessoa pode doar sangue.
+- `LoginSistema.java`: Sistema de login com múltiplos usuários e controle de tentativas usando `boolean` e `while`.
+- `MensagemDoWhile.java`: Repete uma saudação até o usuário digitar "sair", usando `do-while`.
 
 ### 💵 Cálculos e porcentagens
 - `ImpostoRenda.java`: Calcula o valor de imposto com base na faixa salarial.
@@ -39,6 +44,8 @@ Estou acompanhando as aulas do canal DevDojo e cursos da Alura.
 - [x] Adicionar exercícios com entrada de dados pelo usuário (`Scanner`)
 - [x] Utilizar controle de fluxo com `switch/case`
 - [x] Criar repetições com `while` e variável de controle
+- [x] Utilizar `do-while` e controle com `boolean`
+- [x] Criar sistemas simples com tentativas e validações
 - Criar pequenos projetos usando lógica e estrutura de decisão
 - Evoluir para conceitos de orientação a objetos (OOP)
 - Continuar atualizando o LinkedIn e o GitHub com novos aprendizados
