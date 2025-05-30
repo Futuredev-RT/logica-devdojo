@@ -3,21 +3,26 @@
 Repositório criado para guardar os exercícios que estou desenvolvendo durante meus estudos de lógica de programação com Java.  
 Estou acompanhando as aulas do canal DevDojo e cursos da Alura.
 
-## 🧠 O que estou aprendendo
+## ✅ Concluído: Fundamentos de Lógica com Java
+
+Finalizei os estudos de lógica com Java, incluindo condições, repetições, vetores e matrizes. Pronto para seguir rumo à Orientação a Objetos (OOP)!
+
+## 🧠 O que aprendi
 - Lógica de programação com Java
 - Operadores aritméticos e relacionais
 - Estrutura de decisão (`if`, `else if`, `else`)
 - Uso de `&&` (AND lógico) e `||` (OR lógico)
 - Entrada de dados com `Scanner`
 - Comparação de Strings com `.equals()` e `.equalsIgnoreCase()`
-- Controle de repetição com `while` e `do-while`
-- Uso de `boolean` para controle de acesso e fluxo
-- Interrupção de laços com `break`
-- Estrutura `switch`, `case`, `break`, `default`
+- Controle de repetição com `while`, `do-while` e `for`
+- Controle com `boolean` e interrupções com `break`
+- Estrutura `switch`, `case`, `default`
+- Organização em pacotes (`packages`)
+- Escopo de variáveis
+- Boas práticas e identação
 - Manipulação de números decimais com `Locale.US`
-- Organização do código em pacotes (`packages`)
-- Boas práticas no código
-- Escopo de variáveis dentro e fora dos blocos
+- Arrays (vetores) e percorrimento com `for`
+- Arrays multidimensionais (matrizes): leitura, escrita e diagonais
 - Como usar o GitHub
 
 ## 📂 Exercícios por tema
@@ -26,26 +31,35 @@ Estou acompanhando as aulas do canal DevDojo e cursos da Alura.
 - `ImparOuPar.java`: Verifica se um número é par ou ímpar.
 - `VerificaIdade.java`: Informa se a pessoa é adulta com base na idade.
 - `DiferencaIdades.java`: Calcula a diferença entre duas idades.
-- `ExercicioGptAula16.java`: Calcula a idade com base no ano de nascimento e verifica se a pessoa pode votar.
-- `EquipeNatacaoExercise.java`: Classifica participantes por faixa etária em um torneio de natação.
-- `AlistamentoMilitar.java`: Verifica se a pessoa deve se alistar de acordo com o sexo e a idade.
-- `CadastrarAdmin.java`: Valida nomes de usuário, impedindo nomes reservados como "admin".
-- `TesteGpt.java`: Calcula a média de duas notas e classifica como Aprovado, Recuperação ou Reprovado.
-- `DoacaoDeSangue.java`: Sistema de triagem que valida se a pessoa pode doar sangue.
-- `LoginSistema.java`: Sistema de login com múltiplos usuários e controle de tentativas usando `boolean` e `while`.
-- `MensagemDoWhile.java`: Repete uma saudação até o usuário digitar "sair", usando `do-while`.
+- `ExercicioGptAula16.java`: Verifica se a pessoa pode votar com base no nascimento.
+- `EquipeNatacaoExercise.java`: Classificação por idade em torneio.
+- `AlistamentoMilitar.java`: Verifica se a pessoa deve se alistar.
+- `CadastrarAdmin.java`: Bloqueia nomes como "admin" no login.
+- `TesteGpt.java`: Calcula média de notas com classificações.
+- `DoacaoDeSangue.java`: Triagem com validações múltiplas.
+- `LoginSistema.java`: Login com tentativas e bloqueio.
+- `MensagemDoWhile.java`: Mensagem repetitiva até digitar "sair".
 
 ### 💵 Cálculos e porcentagens
-- `ImpostoRenda.java`: Calcula o valor de imposto com base na faixa salarial.
-- `PorcentagemDeterminadosSalarios.java`: Calcula 30% ou 15% de um salário com base em um limite.
-- `Porcentagens.java`: Calcula 30%, 15% e 5% de um salário e imprime os resultados.
+- `ImpostoRenda.java`: Cálculo de imposto sobre salário.
+- `PorcentagemDeterminadosSalarios.java`: 15% ou 30% sobre valor limite.
+- `Porcentagens.java`: Cálculo de múltiplas porcentagens.
+
+### 📊 Arrays e Matrizes
+- `ArraysNotas.java`: Vetor de notas e média.
+- `ArraysFrutas.java`: Vetor de frutas com entrada dinâmica.
+- `ArraysMultiplicacao.java`: Multiplica vetores posição a posição.
+- `Tabuada.java`: Gera tabuada de 1 a 10 com `for` aninhado.
+- `MatrizManual.java`: Criação e exibição de matriz 2D.
+- `MatrizPreenchidaScanner.java`: Leitura de valores com Scanner.
+- `DiagonalPrincipalMultiplicacao.java`: Multiplica valores da diagonal principal.
 
 ## 🚀 Próximos passos
-- [x] Adicionar exercícios com entrada de dados pelo usuário (`Scanner`)
-- [x] Utilizar controle de fluxo com `switch/case`
-- [x] Criar repetições com `while` e variável de controle
-- [x] Utilizar `do-while` e controle com `boolean`
-- [x] Criar sistemas simples com tentativas e validações
-- Criar pequenos projetos usando lógica e estrutura de decisão
-- Evoluir para conceitos de orientação a objetos (OOP)
-- Continuar atualizando o LinkedIn e o GitHub com novos aprendizados
+- [x] Finalizar lógica com Java
+- [x] Praticar arrays e matrizes
+- [ ] Iniciar estudos em Orientação a Objetos (OOP)
+- [ ] Criar projetos com classes, métodos e objetos
+- [ ] Atualizar GitHub com novos aprendizados
+- [ ] Iniciar estruturas de dados e algoritmos em Java
+
+> 💡 Atualização em: `29/05/2025` — Rumo à OOP com muito Jiraya no código! 🚀
