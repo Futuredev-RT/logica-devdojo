@@ -1,3 +1,4 @@
+
 # lógica-devdojo
 
 Repositório criado para guardar os exercícios que estou desenvolvendo durante meus estudos de lógica de programação com Java.  
@@ -23,6 +24,8 @@ Finalizei os estudos de lógica com Java, incluindo condições, repetições, v
 - Manipulação de números decimais com `Locale.US`
 - Arrays (vetores) e percorrimento com `for`
 - Arrays multidimensionais (matrizes): leitura, escrita e diagonais
+- Operador ternário (`condicao ? valor1 : valor2`)
+- Conversão de tipos com casting `(int)`, `(double)`, etc.
 - Como usar o GitHub
 
 ## 📂 Exercícios por tema
@@ -57,9 +60,10 @@ Finalizei os estudos de lógica com Java, incluindo condições, repetições, v
 ## 🚀 Próximos passos
 - [x] Finalizar lógica com Java
 - [x] Praticar arrays e matrizes
+- [x] Aprender operador ternário e casting
 - [ ] Iniciar estudos em Orientação a Objetos (OOP)
 - [ ] Criar projetos com classes, métodos e objetos
 - [ ] Atualizar GitHub com novos aprendizados
 - [ ] Iniciar estruturas de dados e algoritmos em Java
 
-> 💡 Atualização em: `29/05/2025` — Rumo à OOP com muito Jiraya no código! 🚀
+> 💡 Atualização em: `05/06/2025` — Rumo à OOP com muito Jiraya no código! 🚀
